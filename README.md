@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FedeChocuh also known as FedeZenten, fedechocomil or just Fede.
+<h1 align ="center"> ¡Hola! I'm Federico Zenteno </h1>
 ![Github](https://user-images.githubusercontent.com/66924428/201779928-5cb2b51a-12f7-48ea-af16-3bc938c59f5b.gif)
 
 - 🌱 I’m currently learning ...

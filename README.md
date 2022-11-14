@@ -1,8 +1,9 @@
+<p align ="center">
+<img src="https://user-images.githubusercontent.com/66924428/201779928-5cb2b51a-12f7-48ea-af16-3bc938c59f5b.gif">
+</p>
+
 <h1 align ="center"> ¡Hola! I'm Federico Zenteno </h1>
 
-<p align ="center">
-<img src="https://user-images.githubusercontent.com/66924428/201779928-5cb2b51a-12f7-48ea-af16-3bc938c59f5b.gif" width="480" height="270">
-</p>
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...

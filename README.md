@@ -16,7 +16,7 @@
   <table style="100%" align="left">
     <tr>
       <td>
-      <img src="https://user-images.githubusercontent.com/66924428/202071034-8ca98256-a0fc-4b9a-96a6-f9d331f4703c.png" width="200">
+      <img src="https://user-images.githubusercontent.com/66924428/202071034-8ca98256-a0fc-4b9a-96a6-f9d331f4703c.png" width="280">
       </td>
       <tr>
       <td>
@@ -35,8 +35,11 @@
     </tr>
   </table>
 
+  <!----PERSONAL WEBSITE FALTA PONER EL LINK Y EL WEBB --->
+  
+<img align="left" src="https://user-images.githubusercontent.com/66924428/202062271-8f56300a-f6f1-4cf7-9de0-a52b72faf6d2.gif" width="300">
 
-  <table style="100%" align="right">
+  <table style="100%" align="left">
     <tr>
       <td>
         <a href="http://fedechocuh.me"
@@ -51,14 +54,10 @@
       </td>
     </tr>
   </table>
-  <!----PERSONAL WEBSITE FALTA PONER EL LINK Y EL WEBB --->
-  
-<img align="center" src="https://user-images.githubusercontent.com/66924428/202062271-8f56300a-f6f1-4cf7-9de0-a52b72faf6d2.gif" width="400">
 
 <!--<img align="right" src="https://user-images.githubusercontent.com/66924428/202069142-a54fcd6b-2cf3-408f-9a25-04171f4fa0db.png"> -->
 </div>
 
-hola crayola
   
   
   

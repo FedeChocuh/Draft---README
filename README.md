@@ -39,6 +39,9 @@
   
 <img align="left" src="https://user-images.githubusercontent.com/66924428/202062271-8f56300a-f6f1-4cf7-9de0-a52b72faf6d2.gif" width="300">
 
+<hr>
+<br/>
+<br/>
   <table style="100%" align="left">
     <tr>
       <td>

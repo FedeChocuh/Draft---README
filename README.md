@@ -2,11 +2,12 @@
   <img src="https://user-images.githubusercontent.com/66924428/202067237-6a5aa51e-d62f-4a75-bfb7-b7728e48de38.png" style="max-width: 100%;">
   <img src="https://user-images.githubusercontent.com/66924428/202061326-8c72800e-d39e-4654-a416-6c7057b40bcd.gif" style="max-width:50%;">
 </p>
-
+<p align="center"> I'm Fede Zenteno but also known as FedeChoco. This is my personal GitHub. When I say Cool I mean it.</p>
 
 <hr>
-
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/66924428/202072969-bc6b750d-1ecd-4e71-b0cc-96139f1716b3.gif">
+</p>
 <table style="100%" align="center">
       <td align="center">
       <img src="https://user-images.githubusercontent.com/66924428/202071034-8ca98256-a0fc-4b9a-96a6-f9d331f4703c.png" width="310">
@@ -55,7 +56,20 @@
 </td>
 </table>
 
+<table align="center">
+  <td>
+<p slign="center">
+<img src="https://web.archive.org/web/20091027091817im_/http://geocities.com/sovereigngracecc/Email.gif">
+  </p>
+  <br/>
+    <a href="https://twitter.com/FedeChocuh"><strong>Twitter</strong></a>
+    <a href="Discord"><a></a>
+    <p slign="center">
+<img src="https://web.archive.org/web/20091027091817im_/http://geocities.com/sovereigngracecc/Email.gif">
+  </p>
+  </td>
 
+</table>
 
 
 <!--<img align="right" src="https://user-images.githubusercontent.com/66924428/202069142-a54fcd6b-2cf3-408f-9a25-04171f4fa0db.png"> -->

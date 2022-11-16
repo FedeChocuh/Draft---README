@@ -16,7 +16,7 @@
   <table style="100%" align="left">
     <tr>
       <td>
-      <img src="https://user-images.githubusercontent.com/66924428/202071034-8ca98256-a0fc-4b9a-96a6-f9d331f4703c.png" width="280">
+      <img src="https://user-images.githubusercontent.com/66924428/202071034-8ca98256-a0fc-4b9a-96a6-f9d331f4703c.png" width="200">
       </td>
       <tr>
       <td>
